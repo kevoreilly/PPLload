@@ -4,7 +4,7 @@ Load Unsigned Driver via GodFault-Redux Exploit.
 
 This is a minimalist extension to Gabriel Landau's GodFault-Redux exploit which allows loading an unsigned driver on Windows 10 and Windows 11 <= 23H2.
 
-Usage: PPLload <Driver>
+Usage: PPLload ``<Driver>``
 
 The following modifications are of note:
 
